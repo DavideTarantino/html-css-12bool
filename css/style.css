@@ -1,0 +1,63 @@
+body{
+    padding-top: 8%;
+    background-image: url(./img/wallpaperflare.com_wallpaper.jpg);
+}
+
+:root{
+    --height: 70px;
+    --width: 70px;
+}
+
+.black{
+    height: var(--height);
+    width: var(--width);
+    background-color: black;
+}
+
+.red{
+    height: var(--height);
+    width: var(--width);
+    background-color: red;
+}
+
+.amazing-red{
+    height: var(--height);
+    width: var(--width);
+    background-color: #D42A2A;
+}
+
+.white{
+    height: var(--height);
+    width: var(--width);
+    background-color: antiquewhite;
+}
+
+.real-white{
+    height: var(--height);
+    width: var(--width);
+    background-color: white;
+}
+
+.brown{
+    height: var(--height);
+    width: var(--width);
+    background-color: burlywood;
+}
+
+.real-brown{
+    height: var(--height);
+    width: var(--width);
+    background-color: #B88458;
+}
+
+.dark-brown{
+    height: var(--height);
+    width: var(--width);
+    background-color: #613C1B;
+}
+
+.light-brown{
+    height: var(--height);
+    width: var(--width);
+    background-color: #7B512D;
+}
